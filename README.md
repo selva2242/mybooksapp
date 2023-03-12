@@ -1,5 +1,11 @@
 My Books Crud Application
 
+Live App URL: 
+
+http://35.154.22.94:8080/mybooksapp-0.0.1-SNAPSHOT/
+
+( runs on http, so couldnot interact with https as of now)
+
 Used Stack:
 
 1. Java 8
