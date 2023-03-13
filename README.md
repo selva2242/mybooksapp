@@ -6,6 +6,18 @@ http://35.154.22.94:8080/mybooksapp-0.0.1-SNAPSHOT/
 
 ( runs on http, so couldnot interact with https as of now)
 
+
+If used live url for backend, Sample User ID for login:
+
+Expert - 1, Customer - 2
+
+If used localhost for backed,
+
+1. Singup from signup page.
+2. Open http://localhost:8080/h2-console
+3. Open user table
+4. Pick userId from the respective user entry and login.
+
 Used Stack:
 
 1. Java 8
